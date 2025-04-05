@@ -35,14 +35,21 @@ h1 {
 
 .cor1 {
     background-color: #ED145B;
+    order: 0;
 }
 
 .cor2 {
     background-color: #63B1BC;
+    order: 2;
+    margin-left: 200px; 
+
 }
 
 .cor3 {
     background-color: #EFB661;
+    align-self:flex-start;
+    order: 1;
+    margin-left: 100px; 
 }
 
 .instrucoes {
